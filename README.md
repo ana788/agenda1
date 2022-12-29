@@ -13,6 +13,6 @@ Este é um projeto voltado para criação de uma agenda de compromissos. Nele o 
 
 
 <div align="center">
-  <img src=""/>
+  <img src="https://user-images.githubusercontent.com/38301852/209892205-9e5f35b9-31e8-4b87-b2b8-9c00f70a7162.png"/>
   <br><span style-font="font-size: xx-small">Tela principal da agenda</span>
 </div>
