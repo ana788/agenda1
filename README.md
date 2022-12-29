@@ -7,7 +7,7 @@ Este é um projeto voltado para criação de uma agenda de compromissos. Nele o 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38301852/209891805-f1a6fe83-f590-43c6-bfc0-a2c74b9eef72.png"/>
+  <img src="https://user-images.githubusercontent.com/38301852/209892164-d70c8f15-7050-4375-81d4-bef50f811c44.png"/>
   <br><span style-font="font-size: xx-small">Tela de compromisso da agenda</span>
 </div>
 
